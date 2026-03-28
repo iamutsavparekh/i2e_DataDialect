@@ -1,0 +1,11 @@
+solara
+solara-lab
+pandas
+plotly
+sqlalchemy
+duckdb-engine
+langchain-groq
+langchain-ollama
+langchain-google-genai
+anywidget
+tabulate
