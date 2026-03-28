@@ -31,14 +31,14 @@ Ensure your DuckDB file (`instacart_analytics.duckdb`) is in the project root.
 ### 2. Install Dependencies
 ```bash
 pip install solara solara-lab pandas plotly sqlalchemy duckdb-engine langchain-groq langchain-ollama langchain-google-genai anywidget tabulate
-
+```
 ### 3. Setup Local LLM (Optional)
 ```bash
 ollama run llama3.1:8b
-
+```
 ### 4. Launch the Agent
 ```bash
 solara run app.py
-
+```
 
 # The agent will be live at: http://localhost:8765
